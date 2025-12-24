@@ -1,0 +1,12 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "## Git-flow 1. Создать ветку от dev 2. Сделать доработки в своей ветке 3. Оставить pull request на мерж в dev 4. Разрешено мержить PR только после аппрува мейнтенера",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
